@@ -1,2 +1,3 @@
 apache installed
+copy vitrual host from virtualhost.tmpl
 apache restarted
